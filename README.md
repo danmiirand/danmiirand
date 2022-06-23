@@ -4,9 +4,9 @@
 - 🌱 Atualmente trabalhando como Analista de dados.
 
 <div align="center">
-  <a href="https://github.com/BearRed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BearRed&icon_color=eaBfE8&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearRed&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/danmiirand">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danmiirand&icon_color=eaBfE8&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmiirand&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
  
