@@ -11,10 +11,8 @@
 
  
 <div style="display: inline_block"><br>
-<img align="center" alt="Daniel-Js" height="25" width="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Daniel-React" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Daniel-HTML" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Daniel-CSS" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Daniel-Python" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">        
+<img align="center" alt="Daniel-Python" height="25" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">     
+   
 </div>
   
   ##
