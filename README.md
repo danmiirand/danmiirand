@@ -1,7 +1,7 @@
 ### Oops, I'm Daniel Miranda👋
 
 - 🔭 Graduado em Sistemas de Informação, Pós-Graduando em Big Data.
-- 🌱 Atualmente trabalhando como Analista de dados.
+- 🌱 Atualmente trabalhando como Engenheiro de dados.
 
 <div align="center">
   <a href="https://github.com/danmiirand">
